@@ -71,8 +71,8 @@ export default defineNuxtConfig({
     openAPI: {
       production: 'runtime',
       meta: {
-        title: 'Sink API',
-        description: 'A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.',
+        title: 'Zeyrie Links',
+        description: 'A collection of links that I share',
       },
       route: '/_docs/openapi.json',
       ui: {
